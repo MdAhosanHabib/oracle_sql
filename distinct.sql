@@ -1,0 +1,1 @@
+SELECT distinct DEPARTMENT_ID from EMPLOYEES
